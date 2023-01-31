@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/subith_ou_photograpgy/static/css/main.cba974c3.css",
-    "main.js": "/subith_ou_photograpgy/static/js/main.f476b089.js",
-    "static/js/787.80cfc4a5.chunk.js": "/subith_ou_photograpgy/static/js/787.80cfc4a5.chunk.js",
-    "static/media/about.jpg": "/subith_ou_photograpgy/static/media/about.4bb9ae38be7bacda0376.jpg",
-    "static/media/header bg 2.jpg": "/subith_ou_photograpgy/static/media/header bg 2.60870e446d86ad6f4585.jpg",
-    "index.html": "/subith_ou_photograpgy/index.html",
-    "static/media/logo.svg": "/subith_ou_photograpgy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "main.cba974c3.css.map": "/subith_ou_photograpgy/static/css/main.cba974c3.css.map",
-    "main.f476b089.js.map": "/subith_ou_photograpgy/static/js/main.f476b089.js.map",
-    "787.80cfc4a5.chunk.js.map": "/subith_ou_photograpgy/static/js/787.80cfc4a5.chunk.js.map"
+    "main.css": "/subith_ou_photography/static/css/main.7dde2f0e.css",
+    "main.js": "/subith_ou_photography/static/js/main.0c8a2853.js",
+    "static/js/787.80cfc4a5.chunk.js": "/subith_ou_photography/static/js/787.80cfc4a5.chunk.js",
+    "static/media/about.jpg": "/subith_ou_photography/static/media/about.4bb9ae38be7bacda0376.jpg",
+    "static/media/header bg 2.jpg": "/subith_ou_photography/static/media/header bg 2.60870e446d86ad6f4585.jpg",
+    "index.html": "/subith_ou_photography/index.html",
+    "static/media/logo.svg": "/subith_ou_photography/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.7dde2f0e.css.map": "/subith_ou_photography/static/css/main.7dde2f0e.css.map",
+    "main.0c8a2853.js.map": "/subith_ou_photography/static/js/main.0c8a2853.js.map",
+    "787.80cfc4a5.chunk.js.map": "/subith_ou_photography/static/js/787.80cfc4a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cba974c3.css",
-    "static/js/main.f476b089.js"
+    "static/css/main.7dde2f0e.css",
+    "static/js/main.0c8a2853.js"
   ]
 }
